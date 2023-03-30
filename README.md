@@ -17,7 +17,7 @@ You've reached the end of the program. To check another habitat, please restart 
 Examples
 The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
 
-<h1>Example 1</h1><br>
+<h1>Example 1</h1> <p>
 
 Please enter the number of the habitat you would like to view: > 5
 
