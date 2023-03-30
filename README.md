@@ -1,9 +1,10 @@
 <h1>Description</h1><p>
 The third stage requires you to increase the capabilities of your software. Now it should be able to recognize the number of a specific habitat from the input and show the animals living there.
-
+</p>
 Add all of the variables from the template to a single variable with the list type. The order of variables matters: they must appear on the list in the order in which they're defined in the code. The list must contain all of the variables with no duplicates.
 
 <h1>Objectives</h1> <p>
+ </p>
 In this stage your program should:
 
 Ask for the number of the desired habitat using the following phrase: Please enter the number of the habitat you would like to view:
@@ -18,7 +19,7 @@ Examples
 The greater-than symbol followed by a space (> ) represents the user input. Notice that it's not part of the input.
 
 <h1>Example 1</h1> <p>
-
+</p>
 Please enter the number of the habitat you would like to view: > 5
 
 Switching on the camera in the rabbit habitat...
